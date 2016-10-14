@@ -1,0 +1,7 @@
+# IntelliJ IDEA
+.idea
+*.iml
+
+.env
+bindata.go
+myapp
